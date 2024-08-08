@@ -32,9 +32,9 @@
 <img src="https://www.ornek-domein.com/elba-otomasyon-gorsel2.jpg" alt="Yönetim Paneli" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
-<p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
+<p>Projeyi canlı olarak görmek için <a href="https://www.elbaotomasyon.com.tr/" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya geri bildirim için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, Elba Otomasyon için özel olarak tasarlanmış ve müşteri ihtiyaçlarına uygun olarak geliştirilmiştir.</em></p>
